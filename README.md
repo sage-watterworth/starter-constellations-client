@@ -1,6 +1,6 @@
-# Starter Code: Constellations Client
 
-This server is intended to be run for some checkpoints in the Thinkful curriculum. If you have trouble getting the server to run, reach out to your mentor.
+
+# Starter Code: Constellations Client- This code was used as an example piece to practice deployment (and redeployment) with Vercel and Heroku. 
 
 ## Installation Instructions
 
